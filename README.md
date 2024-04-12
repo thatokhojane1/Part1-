@@ -1,1 +1,1 @@
-# Part1-
+# Part1- Open Visual Studio and go to the console program. The code is in the Program.cs file of the console project.Use the program or code provided. Follow the instructions to add ingredients, follow the steps, measure the recipe, adjust the quantity, delete the recipe, or exit the program.Test various features of the application to ensure that it behaves as expected.
